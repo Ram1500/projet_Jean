@@ -19,7 +19,9 @@
     "url": "https://github.com/Ram1500/projet_Jean/issues"
   },
   "homepage": "https://github.com/Ram1500/projet_Jean#readme",
-  "dependencies": {},
+  "dependencies": {
+    "nodemailer": "^6.4.2"
+  },
   "devDependencies": {
     "mocha": "^6.2.2"
   }
