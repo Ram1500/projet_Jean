@@ -1,0 +1,22 @@
+{
+  "name": "projet_jean",
+  "version": "1.0.0",
+  "description": "Send Email",
+  "main": "app.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Ram1500/projet_Jean.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Ram1500/projet_Jean/issues"
+  },
+  "homepage": "https://github.com/Ram1500/projet_Jean#readme"
+}
