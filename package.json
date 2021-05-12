@@ -21,7 +21,7 @@
   },
   "homepage": "https://github.com/Ram1500/projet_Jean#readme",
   "dependencies": {
-    "nodemailer": "^6.4.2"
+    "nodemailer": "^6.4.16"
   },
   "devDependencies": {
     "chai": "^4.2.0",
